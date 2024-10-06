@@ -1,0 +1,50 @@
+.button {
+    -fx-background-color: #A0522D;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
+    -fx-font-size: 14px;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-margin: 10px;
+    -fx-alignment: CENTER;
+}
+
+.table-view {
+    -fx-background-color: white;
+    -fx-border-color: #D3D3D3;
+}
+
+.menu-bar {
+    -fx-background-color: #80471C;
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+}
+
+.form-container {
+    -fx-background-color: green;
+}
+
+.avatar {
+    -fx-background-color: #80471C;
+}
+
+.table-cell {
+    -fx-background-color: #f0f0f0;
+    -fx-text-fill: black;
+    -fx-alignment: CENTER-LEFT;
+}
+
+.column-header {
+    -fx-background-color: #D3D3D3;
+    -fx-text-fill: black;
+    -fx-alignment: CENTER-LEFT;
+}
+
+
+.table-view .column-header {
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+    -fx-alignment: CENTER-LEFT;
+}
+
